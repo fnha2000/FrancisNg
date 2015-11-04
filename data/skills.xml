@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<skills>
+	<skill>
+		<description>C/C++</description>
+		<proficiency>4</proficiency>
+	</skill>
+	<skill>
+		<description>C#</description>
+		<proficiency>5</proficiency>
+	</skill>
+	<skill>
+		<description>Java</description>
+		<proficiency>5</proficiency>
+	</skill>
+	<skill>
+		<description>VB.NET</description>
+		<proficiency>3</proficiency>
+	</skill>
+	<skill>
+		<description>Python</description>
+		<proficiency>3</proficiency>
+	</skill>
+	<skill>
+		<description>Lua</description>
+		<proficiency>2</proficiency>
+	</skill>
+	<skill>
+		<description>HTML</description>
+		<proficiency>5</proficiency>
+	</skill>
+	<skill>
+		<description>CSS</description>
+		<proficiency>4</proficiency>
+	</skill>
+	<skill>
+		<description>javaScript</description>
+		<proficiency>5</proficiency>
+	</skill>
+	<skill>
+		<description>PHP</description>
+		<proficiency>4</proficiency>
+	</skill>
+	<skill>
+		<description>SQL</description>
+		<proficiency>4</proficiency>
+	</skill>
+	<skill>
+		<description>OpenGL</description>
+		<proficiency>3</proficiency>
+	</skill>
+	<skill>
+		<description>Android development</description>
+		<proficiency>3</proficiency>
+	</skill>
+	<skill>
+		<description>ETL: Informatica</description>
+		<proficiency>3</proficiency>
+	</skill>
+	<skill>
+		<description>Automation: CA Workload Automation</description>
+		<proficiency>3</proficiency>
+	</skill>
+	<skill>
+		<description>iOS development</description>
+		<proficiency>3</proficiency>
+	</skill>
+	<!--<skill>
+		<description></description>
+		<proficiency></proficiency>
+	</skill>-->
+</skills>

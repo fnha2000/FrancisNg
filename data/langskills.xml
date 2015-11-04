@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<skills>
+	<skill>
+		<description>English</description>
+		<proficiency>Fluent</proficiency>
+	</skill>
+	<skill>
+		<description>Mandarin</description>
+		<proficiency>Business Level</proficiency>
+	</skill>
+	<skill>
+		<description>Malay</description>
+		<proficiency>Business Level</proficiency>
+	</skill>
+	<skill>
+		<description>Japanese</description>
+		<proficiency><![CDATA[<a href="http://www.jlpt.jp/e/about/levelsummary.html" target="_blank">JLPT N2</a>]]></proficiency>
+	</skill>
+	<!--<skill>
+		<description></description>
+		<proficiency></proficiency>
+	</skill>-->
+</skills>

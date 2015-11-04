@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<experiences>
+	<experience>
+		<titlemain><![CDATA[Manulife Technology & Services]]></titlemain>
+		<titlesub>August 2013 - Current</titlesub>
+		<detailmain>Software Engineer</detailmain>
+		<detailsub><![CDATA[Started off in the John Hancock Annuities team supporting the web services of the Annuities business unit of John Hancock in America. Handled the web services backend, ETL and automation needs of the unit.<br/>
+			Later transferred to the Web & Mobile Development team as part of the Global Services unit. Handled all web and mobile development needs of any business unit that requested services, mostly focusing on C#.NET and iOS development.]]></detailsub>
+	</experience>
+	<experience>
+		<titlemain>University of Pittsburgh</titlemain>
+		<titlesub>April 2012 - April 2013</titlesub>
+		<detailmain>(Part time) Epidemiological database quality controller</detailmain>
+		<detailsub>Check and correct database entries for the University of Pittsburgh's Project Tycho. http://www.tycho.pitt.edu</detailsub>
+	</experience>
+</experiences>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<projects>
+	<project>
+		<title>Francis Ng</title>
+		<description>This site, over-engineered just for the sake of it.</description>
+		<address>http://localhost</address>
+		<thumbnail>topbg.jpg</thumbnail>
+	</project>
+	<project>
+		<title>Danbooru Pool Downloader</title>
+		<description>A python script to download entire pools from the Danbooru image site.</description>
+		<address>https://github.com/fnha2000/DanboPoolDL</address>
+		<thumbnail>danbo.jpg</thumbnail>
+	</project>
+	<project>
+		<title>DL Organizer</title>
+		<description>A .NET project made to move or organize files from a single location to specific configurable locations.</description>
+		<address>https://github.com/fnha2000/DLOrganizer</address>
+		<thumbnail>DLorg.jpg</thumbnail>
+	</project>
+	<!--<project>
+		<title>Love Live! Fan Handbook</title>
+		<description>An Android app providing quick access to song, lyric, and quick character information on the Love Live! School Idol Project franchise.</description>
+		<address>http://localhost</address>
+		<thumbnail>topbg.jpg</thumbnail>
+</project>-->
+	<project>
+		<title>Meow Meow Panic</title>
+		<description>Team entry into the Open Source Game Coding Competition 2011.</description>
+		<address>https://github.com/fnha2000/OSGCC5</address>
+		<thumbnail>meow.jpg</thumbnail>
+	</project>
+	<project>
+		<title>LINGO</title>
+		<description>Online game of LINGO. Early experimental project using PHP and AJAX.</description>
+		<address>http://francisng.elementfx.com/lingo</address>
+		<thumbnail>lingo.jpg</thumbnail>
+	</project>
+	<project>
+		<title>Composing Digital Media</title>
+		<description>A media showcase created during a creative digital media class.</description>
+		<address>http://francisng.elementfx.com/cdm</address>
+		<thumbnail>cdm.jpg</thumbnail>
+	</project>
+	<!--<project>
+		<title></title>
+		<description></description>
+		<address></address>
+		<thumbnail></thumbnail>
+</project>-->
+</projects>

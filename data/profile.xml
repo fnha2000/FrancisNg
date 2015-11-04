@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<profile>
+	<name>Francis Ng</name>
+	<intro>
+		I'm a developer in multiple technologies. I've worked with various platforms and technologies from Python, Java, and C++ on the desktop to native applications on Android and iOS.
+		Most of my current development work is with web applications both in PHP and .NET on the server side to HTML5/CSS3/javaScript responsive design on the client side.
+		I also do some digital art, 3D modeling and rendering, and writing as side interests.
+	</intro>
+	<profpicdir>/img/profpic.jpg</profpicdir>
+	<modifiedyear>2015</modifiedyear>
+</profile>
