@@ -33,13 +33,13 @@
 	<project>
 		<title>LINGO</title>
 		<description>Online game of LINGO. Early experimental project using PHP and AJAX.</description>
-		<address>http://francisng.elementfx.com/lingo</address>
+		<address>lingo</address>
 		<thumbnail>lingo.jpg</thumbnail>
 	</project>
 	<project>
 		<title>Composing Digital Media</title>
 		<description>A media showcase created during a creative digital media class.</description>
-		<address>http://francisng.elementfx.com/cdm</address>
+		<address>/cdm</address>
 		<thumbnail>cdm.jpg</thumbnail>
 	</project>
 	<!--<project>

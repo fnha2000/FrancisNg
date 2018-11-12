@@ -1,0 +1,151 @@
+body {
+    background-color:#333;
+    font-family:Tahoma, Geneva, sans-serif;
+    text-align:center;
+}
+
+header {
+    color:#F00;
+    background-color:#0066BB;
+    padding-bottom:10px;
+    text-shadow:5px 5px 5px #AAA;
+    text-align:center;
+    font-size:2.5em;
+    font-weight:bold;
+    font-style:italic;
+}
+
+.main {
+    width:800px;
+    margin:10px auto;
+    padding:5px 5px 10px 5px;
+    background-color:#66A;
+}
+
+#container {
+    padding:5px 10px 5px 10px;
+}
+
+p {
+    font-size:1.0em;
+}
+
+.alert {
+    color:#F00;
+	transition:color 0.5s ease-out;
+    -webkit-transition:color 0.5s ease-out;
+    -moz-transition:color 0.5s ease-out;
+    -o-transition:color 0.5s ease-out;
+}
+
+h3 {
+    font-size:1.5em;
+    font-weight:bold;
+}
+
+.tabs {
+    height:30px;
+    margin:0;
+    padding:10px;
+}
+
+.tabs > ul {
+    list-style:none;
+}
+
+.tabs > ul > li {
+    display:inline;
+    user-select:none;
+    padding:5px;
+    background-color:#559;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -o-user-select:none;
+    transition:color 0.5s ease-out;
+    -webkit-transition:color 0.5s ease-out;
+    -moz-transition:color 0.5s ease-out;
+    -o-transition:color 0.5s ease-out;
+    transition:background-color 0.5s ease-out;
+    -webkit-transition:background-color 0.5s ease-out;
+    -moz-transition:background-color 0.5s ease-out;
+    -o-transition:background-color 0.5s ease-out;
+    cursor:pointer;
+}
+
+.tabs > ul > li:hover {
+    background-color:#88C;
+}
+
+.tabs > ul > li.activetab {
+    background-color:#FFF;
+}
+
+span.link {
+    text-decoration:none;
+    color:#000;
+    user-select:none;
+    padding:0px 2px 0px 2px;
+    transition:color 0.5s ease-out;
+    background-color:#FFF;
+    -webkit-transition:color 0.5s ease-out;
+    -moz-transition:color 0.5s ease-out;
+    -o-transition:color 0.5s ease-out;
+    transition:background-color 0.5s ease-out;
+    -webkit-transition:background-color 0.5s ease-out;
+    -moz-transition:background-color 0.5s ease-out;
+    -o-transition:background-color 0.5s ease-out;
+    cursor:pointer;
+}
+
+span.link:hover {
+    background-color:#66A;
+    color:#FFF;
+}
+
+span.tablelink {
+    text-decoration:none;
+    color:#FFF;
+    user-select:none;
+    padding:0px 2px 0px 2px;
+    transition:color 0.5s ease-out;
+    background-color:#A7C942;
+    -webkit-transition:color 0.5s ease-out;
+    -moz-transition:color 0.5s ease-out;
+    -o-transition:color 0.5s ease-out;
+    transition:background-color 0.5s ease-out;
+    -webkit-transition:background-color 0.5s ease-out;
+    -moz-transition:background-color 0.5s ease-out;
+    -o-transition:background-color 0.5s ease-out;
+    cursor:pointer;
+}
+
+span.tablelink:hover {
+    background-color:#66A;
+}
+
+.contents {
+    margin:0;
+    padding:10px;
+    background-color:#FFF;
+}
+
+table {
+    width:100%;
+    margin:5px auto;
+    border-collapse:collapse;
+}
+
+td, th {
+    text-align:left;
+    border:1px solid #98bf21;
+    padding:5px 5px;
+}
+
+th {
+    background-color:#A7C942;
+    color:#ffffff;
+}
+
+tr:hover {
+    background-color:#88C;
+}
